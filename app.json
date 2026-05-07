@@ -1,16 +1,22 @@
-{
+﻿{
   "expo": {
     "name": "AlumniHub",
     "slug": "alumni-frontend",
     "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "alumnihub",
     "android": {
-      "package": "com.alumnihub.app"
+      "package": "com.alumnihub.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "backgroundColor": "#0F0F1A"
+      }
     },
     "extra": {
-  "eas": {
-    "projectId": "7ac50f3f-7dea-4573-b281-c817813b8258"
-  }
-},
+      "eas": {
+        "projectId": "7ac50f3f-7dea-4573-b281-c817813b8258"
+      }
+    },
     "owner": "madhumitha_velmurugan"
   }
 }
