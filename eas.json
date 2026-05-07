@@ -7,9 +7,6 @@
     "preview": {
       "android": {
         "buildType": "apk"
-      },
-      "config": {
-        "skipDoctorWarnings": true
       }
     },
     "production": {
