@@ -7,10 +7,10 @@
       "package": "com.alumnihub.app"
     },
     "extra": {
-      "eas": {
-        "projectId": "56f1f6db-71c4-4b2b-96a7-3db5263cdb8f"
-      }
-    },
+  "eas": {
+    "projectId": "7ac50f3f-7dea-4573-b281-c817813b8258"
+  }
+},
     "owner": "madhumitha_velmurugan"
   }
 }
