@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://alumni-backend-gf1r.onrender.com';

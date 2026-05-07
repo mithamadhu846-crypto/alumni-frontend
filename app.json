@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "AlumniHub",
+    "slug": "alumnihub",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.alumnihub.app"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "56f1f6db-71c4-4b2b-96a7-3db5263cdb8f"
+      }
+    },
+    "owner": "madhumitha_velmurugan"
+  }
+}
