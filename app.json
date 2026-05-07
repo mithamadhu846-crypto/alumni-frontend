@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "AlumniHub",
-    "slug": "alumnihub",
+    "slug": "alumni-frontend",
     "version": "1.0.0",
     "android": {
       "package": "com.alumnihub.app"
